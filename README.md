@@ -1,7 +1,9 @@
 # Install this php dependencies to prevent errors: 
 
 apt install php 
+
 apt install php-mysql
+
 apt install php-gd
 
 
